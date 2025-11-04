@@ -13,9 +13,6 @@ export default function HomePage() {
 
   return (
     <div className='container mx-auto p-8'>
-      <LocaleLink href='/counter' className={cn(buttonVariants({ variant: 'default' }), 'mb-4')}>
-        Example Counter with Valtio as a state management
-      </LocaleLink>
       <div className='mb-8 flex items-center justify-between'>
         <h1 className='text-3xl font-bold'>{t('welcome')}</h1>
         <LanguageSwitcher />

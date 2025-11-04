@@ -12,7 +12,10 @@
     "register": "Register",
     "forgotPassword": "Forgot Password",
     "email": "Email",
-    "password": "Password"
+    "password": "Password",
+    "forgotPasswordSubtext": "Enter your email address and we'll send you a link to reset your password.",
+    "forgotPasswordTitle": "Forgot Your Password?",
+    "sendResetLink": "Send Reset Link"
   },
   "errors": {
     "required": "This field is required",
